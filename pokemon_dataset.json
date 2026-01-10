@@ -1,0 +1,1602 @@
+[
+    {
+        "Name": "Bulbasaur",
+        "Type": "Flying",
+        "HP": 97,
+        "Attack": 127,
+        "Defense": 113,
+        "Speed": 120
+    },
+    {
+        "Name": "Ivysaur",
+        "Type": "Flying",
+        "HP": 124,
+        "Attack": 84,
+        "Defense": 147,
+        "Speed": 138
+    },
+    {
+        "Name": "Venusaur",
+        "Type": "Dragon",
+        "HP": 159,
+        "Attack": 128,
+        "Defense": 45,
+        "Speed": 23
+    },
+    {
+        "Name": "Charmander",
+        "Type": "Dragon",
+        "HP": 94,
+        "Attack": 34,
+        "Defense": 30,
+        "Speed": 92
+    },
+    {
+        "Name": "Charmeleon",
+        "Type": "Psychic",
+        "HP": 94,
+        "Attack": 48,
+        "Defense": 103,
+        "Speed": 127
+    },
+    {
+        "Name": "Charizard",
+        "Type": "Dragon",
+        "HP": 109,
+        "Attack": 113,
+        "Defense": 132,
+        "Speed": 59
+    },
+    {
+        "Name": "Squirtle",
+        "Type": "Electric",
+        "HP": 108,
+        "Attack": 64,
+        "Defense": 68,
+        "Speed": 121
+    },
+    {
+        "Name": "Wartortle",
+        "Type": "Electric",
+        "HP": 161,
+        "Attack": 104,
+        "Defense": 124,
+        "Speed": 89
+    },
+    {
+        "Name": "Blastoise",
+        "Type": "Psychic",
+        "HP": 105,
+        "Attack": 35,
+        "Defense": 95,
+        "Speed": 119
+    },
+    {
+        "Name": "Caterpie",
+        "Type": "Psychic",
+        "HP": 169,
+        "Attack": 60,
+        "Defense": 98,
+        "Speed": 44
+    },
+    {
+        "Name": "Metapod",
+        "Type": "Grass",
+        "HP": 95,
+        "Attack": 99,
+        "Defense": 118,
+        "Speed": 66
+    },
+    {
+        "Name": "Butterfree",
+        "Type": "Psychic",
+        "HP": 114,
+        "Attack": 83,
+        "Defense": 112,
+        "Speed": 110
+    },
+    {
+        "Name": "Weedle",
+        "Type": "Flying",
+        "HP": 150,
+        "Attack": 31,
+        "Defense": 78,
+        "Speed": 113
+    },
+    {
+        "Name": "Kakuna",
+        "Type": "Water",
+        "HP": 190,
+        "Attack": 125,
+        "Defense": 132,
+        "Speed": 135
+    },
+    {
+        "Name": "Beedrill",
+        "Type": "Grass",
+        "HP": 125,
+        "Attack": 114,
+        "Defense": 146,
+        "Speed": 64
+    },
+    {
+        "Name": "Pidgey",
+        "Type": "Flying",
+        "HP": 72,
+        "Attack": 124,
+        "Defense": 52,
+        "Speed": 168
+    },
+    {
+        "Name": "Pidgeotto",
+        "Type": "Rock",
+        "HP": 101,
+        "Attack": 136,
+        "Defense": 62,
+        "Speed": 138
+    },
+    {
+        "Name": "Pidgeot",
+        "Type": "Rock",
+        "HP": 175,
+        "Attack": 50,
+        "Defense": 38,
+        "Speed": 49
+    },
+    {
+        "Name": "Rattata",
+        "Type": "Dragon",
+        "HP": 161,
+        "Attack": 32,
+        "Defense": 40,
+        "Speed": 153
+    },
+    {
+        "Name": "Raticate",
+        "Type": "Water",
+        "HP": 158,
+        "Attack": 69,
+        "Defense": 70,
+        "Speed": 28
+    },
+    {
+        "Name": "Spearow",
+        "Type": "Rock",
+        "HP": 67,
+        "Attack": 42,
+        "Defense": 124,
+        "Speed": 58
+    },
+    {
+        "Name": "Fearow",
+        "Type": "Rock",
+        "HP": 64,
+        "Attack": 115,
+        "Defense": 114,
+        "Speed": 88
+    },
+    {
+        "Name": "Ekans",
+        "Type": "Grass",
+        "HP": 99,
+        "Attack": 48,
+        "Defense": 123,
+        "Speed": 131
+    },
+    {
+        "Name": "Arbok",
+        "Type": "Ghost",
+        "HP": 113,
+        "Attack": 146,
+        "Defense": 131,
+        "Speed": 93
+    },
+    {
+        "Name": "Pikachu",
+        "Type": "Grass",
+        "HP": 135,
+        "Attack": 62,
+        "Defense": 134,
+        "Speed": 116
+    },
+    {
+        "Name": "Raichu",
+        "Type": "Fire",
+        "HP": 127,
+        "Attack": 68,
+        "Defense": 80,
+        "Speed": 76
+    },
+    {
+        "Name": "Sandshrew",
+        "Type": "Rock",
+        "HP": 139,
+        "Attack": 53,
+        "Defense": 93,
+        "Speed": 95
+    },
+    {
+        "Name": "Sandslash",
+        "Type": "Ghost",
+        "HP": 145,
+        "Attack": 56,
+        "Defense": 54,
+        "Speed": 146
+    },
+    {
+        "Name": "Nidoran\u2640",
+        "Type": "Ground",
+        "HP": 138,
+        "Attack": 118,
+        "Defense": 58,
+        "Speed": 91
+    },
+    {
+        "Name": "Nidorina",
+        "Type": "Water",
+        "HP": 149,
+        "Attack": 86,
+        "Defense": 119,
+        "Speed": 165
+    },
+    {
+        "Name": "Nidoqueen",
+        "Type": "Flying",
+        "HP": 117,
+        "Attack": 97,
+        "Defense": 141,
+        "Speed": 53
+    },
+    {
+        "Name": "Nidoran\u2642",
+        "Type": "Flying",
+        "HP": 177,
+        "Attack": 46,
+        "Defense": 99,
+        "Speed": 159
+    },
+    {
+        "Name": "Nidorino",
+        "Type": "Electric",
+        "HP": 135,
+        "Attack": 148,
+        "Defense": 102,
+        "Speed": 28
+    },
+    {
+        "Name": "Nidoking",
+        "Type": "Ground",
+        "HP": 83,
+        "Attack": 69,
+        "Defense": 86,
+        "Speed": 34
+    },
+    {
+        "Name": "Clefairy",
+        "Type": "Dragon",
+        "HP": 58,
+        "Attack": 132,
+        "Defense": 39,
+        "Speed": 105
+    },
+    {
+        "Name": "Clefable",
+        "Type": "Ground",
+        "HP": 106,
+        "Attack": 44,
+        "Defense": 92,
+        "Speed": 46
+    },
+    {
+        "Name": "Vulpix",
+        "Type": "Flying",
+        "HP": 98,
+        "Attack": 30,
+        "Defense": 109,
+        "Speed": 34
+    },
+    {
+        "Name": "Ninetales",
+        "Type": "Fire",
+        "HP": 133,
+        "Attack": 38,
+        "Defense": 76,
+        "Speed": 175
+    },
+    {
+        "Name": "Jigglypuff",
+        "Type": "Electric",
+        "HP": 151,
+        "Attack": 109,
+        "Defense": 137,
+        "Speed": 47
+    },
+    {
+        "Name": "Wigglytuff",
+        "Type": "Ground",
+        "HP": 184,
+        "Attack": 112,
+        "Defense": 136,
+        "Speed": 78
+    },
+    {
+        "Name": "Zubat",
+        "Type": "Dragon",
+        "HP": 50,
+        "Attack": 39,
+        "Defense": 55,
+        "Speed": 156
+    },
+    {
+        "Name": "Golbat",
+        "Type": "Rock",
+        "HP": 154,
+        "Attack": 115,
+        "Defense": 92,
+        "Speed": 133
+    },
+    {
+        "Name": "Oddish",
+        "Type": "Water",
+        "HP": 87,
+        "Attack": 37,
+        "Defense": 42,
+        "Speed": 92
+    },
+    {
+        "Name": "Gloom",
+        "Type": "Rock",
+        "HP": 149,
+        "Attack": 123,
+        "Defense": 43,
+        "Speed": 57
+    },
+    {
+        "Name": "Vileplume",
+        "Type": "Water",
+        "HP": 168,
+        "Attack": 40,
+        "Defense": 62,
+        "Speed": 159
+    },
+    {
+        "Name": "Paras",
+        "Type": "Psychic",
+        "HP": 199,
+        "Attack": 72,
+        "Defense": 37,
+        "Speed": 60
+    },
+    {
+        "Name": "Parasect",
+        "Type": "Psychic",
+        "HP": 132,
+        "Attack": 109,
+        "Defense": 143,
+        "Speed": 66
+    },
+    {
+        "Name": "Venonat",
+        "Type": "Fire",
+        "HP": 107,
+        "Attack": 97,
+        "Defense": 115,
+        "Speed": 42
+    },
+    {
+        "Name": "Venomoth",
+        "Type": "Electric",
+        "HP": 84,
+        "Attack": 116,
+        "Defense": 111,
+        "Speed": 86
+    },
+    {
+        "Name": "Diglett",
+        "Type": "Fire",
+        "HP": 147,
+        "Attack": 56,
+        "Defense": 47,
+        "Speed": 79
+    },
+    {
+        "Name": "Dugtrio",
+        "Type": "Rock",
+        "HP": 189,
+        "Attack": 105,
+        "Defense": 43,
+        "Speed": 166
+    },
+    {
+        "Name": "Meowth",
+        "Type": "Electric",
+        "HP": 142,
+        "Attack": 33,
+        "Defense": 119,
+        "Speed": 109
+    },
+    {
+        "Name": "Persian",
+        "Type": "Dragon",
+        "HP": 175,
+        "Attack": 140,
+        "Defense": 128,
+        "Speed": 23
+    },
+    {
+        "Name": "Psyduck",
+        "Type": "Ground",
+        "HP": 105,
+        "Attack": 99,
+        "Defense": 55,
+        "Speed": 139
+    },
+    {
+        "Name": "Golduck",
+        "Type": "Flying",
+        "HP": 131,
+        "Attack": 77,
+        "Defense": 50,
+        "Speed": 77
+    },
+    {
+        "Name": "Mankey",
+        "Type": "Dragon",
+        "HP": 80,
+        "Attack": 123,
+        "Defense": 116,
+        "Speed": 166
+    },
+    {
+        "Name": "Primeape",
+        "Type": "Dragon",
+        "HP": 178,
+        "Attack": 97,
+        "Defense": 54,
+        "Speed": 51
+    },
+    {
+        "Name": "Growlithe",
+        "Type": "Flying",
+        "HP": 184,
+        "Attack": 37,
+        "Defense": 94,
+        "Speed": 97
+    },
+    {
+        "Name": "Arcanine",
+        "Type": "Grass",
+        "HP": 112,
+        "Attack": 32,
+        "Defense": 149,
+        "Speed": 59
+    },
+    {
+        "Name": "Poliwag",
+        "Type": "Electric",
+        "HP": 50,
+        "Attack": 42,
+        "Defense": 103,
+        "Speed": 180
+    },
+    {
+        "Name": "Poliwhirl",
+        "Type": "Flying",
+        "HP": 144,
+        "Attack": 107,
+        "Defense": 32,
+        "Speed": 34
+    },
+    {
+        "Name": "Poliwrath",
+        "Type": "Dragon",
+        "HP": 191,
+        "Attack": 46,
+        "Defense": 112,
+        "Speed": 37
+    },
+    {
+        "Name": "Abra",
+        "Type": "Ground",
+        "HP": 191,
+        "Attack": 31,
+        "Defense": 148,
+        "Speed": 20
+    },
+    {
+        "Name": "Kadabra",
+        "Type": "Fire",
+        "HP": 56,
+        "Attack": 108,
+        "Defense": 143,
+        "Speed": 49
+    },
+    {
+        "Name": "Alakazam",
+        "Type": "Psychic",
+        "HP": 199,
+        "Attack": 74,
+        "Defense": 55,
+        "Speed": 83
+    },
+    {
+        "Name": "Machop",
+        "Type": "Ground",
+        "HP": 121,
+        "Attack": 104,
+        "Defense": 49,
+        "Speed": 53
+    },
+    {
+        "Name": "Machoke",
+        "Type": "Ground",
+        "HP": 65,
+        "Attack": 116,
+        "Defense": 126,
+        "Speed": 163
+    },
+    {
+        "Name": "Machamp",
+        "Type": "Dragon",
+        "HP": 83,
+        "Attack": 98,
+        "Defense": 91,
+        "Speed": 142
+    },
+    {
+        "Name": "Bellsprout",
+        "Type": "Water",
+        "HP": 116,
+        "Attack": 80,
+        "Defense": 50,
+        "Speed": 73
+    },
+    {
+        "Name": "Weepinbell",
+        "Type": "Grass",
+        "HP": 135,
+        "Attack": 142,
+        "Defense": 68,
+        "Speed": 84
+    },
+    {
+        "Name": "Victreebel",
+        "Type": "Dragon",
+        "HP": 193,
+        "Attack": 60,
+        "Defense": 90,
+        "Speed": 178
+    },
+    {
+        "Name": "Tentacool",
+        "Type": "Water",
+        "HP": 159,
+        "Attack": 55,
+        "Defense": 45,
+        "Speed": 37
+    },
+    {
+        "Name": "Tentacruel",
+        "Type": "Flying",
+        "HP": 105,
+        "Attack": 101,
+        "Defense": 61,
+        "Speed": 30
+    },
+    {
+        "Name": "Geodude",
+        "Type": "Grass",
+        "HP": 104,
+        "Attack": 146,
+        "Defense": 60,
+        "Speed": 69
+    },
+    {
+        "Name": "Graveler",
+        "Type": "Dragon",
+        "HP": 164,
+        "Attack": 93,
+        "Defense": 36,
+        "Speed": 178
+    },
+    {
+        "Name": "Golem",
+        "Type": "Grass",
+        "HP": 120,
+        "Attack": 36,
+        "Defense": 76,
+        "Speed": 137
+    },
+    {
+        "Name": "Ponyta",
+        "Type": "Rock",
+        "HP": 76,
+        "Attack": 148,
+        "Defense": 30,
+        "Speed": 64
+    },
+    {
+        "Name": "Rapidash",
+        "Type": "Grass",
+        "HP": 200,
+        "Attack": 119,
+        "Defense": 51,
+        "Speed": 25
+    },
+    {
+        "Name": "Slowpoke",
+        "Type": "Ghost",
+        "HP": 172,
+        "Attack": 33,
+        "Defense": 118,
+        "Speed": 172
+    },
+    {
+        "Name": "Slowbro",
+        "Type": "Flying",
+        "HP": 164,
+        "Attack": 92,
+        "Defense": 49,
+        "Speed": 131
+    },
+    {
+        "Name": "Magnemite",
+        "Type": "Dragon",
+        "HP": 140,
+        "Attack": 142,
+        "Defense": 90,
+        "Speed": 156
+    },
+    {
+        "Name": "Magneton",
+        "Type": "Fire",
+        "HP": 159,
+        "Attack": 149,
+        "Defense": 62,
+        "Speed": 57
+    },
+    {
+        "Name": "Farfetch\u2019d",
+        "Type": "Ghost",
+        "HP": 52,
+        "Attack": 119,
+        "Defense": 41,
+        "Speed": 147
+    },
+    {
+        "Name": "Doduo",
+        "Type": "Dragon",
+        "HP": 200,
+        "Attack": 98,
+        "Defense": 58,
+        "Speed": 123
+    },
+    {
+        "Name": "Dodrio",
+        "Type": "Ghost",
+        "HP": 87,
+        "Attack": 134,
+        "Defense": 95,
+        "Speed": 67
+    },
+    {
+        "Name": "Seel",
+        "Type": "Rock",
+        "HP": 182,
+        "Attack": 36,
+        "Defense": 126,
+        "Speed": 25
+    },
+    {
+        "Name": "Dewgong",
+        "Type": "Flying",
+        "HP": 101,
+        "Attack": 99,
+        "Defense": 102,
+        "Speed": 166
+    },
+    {
+        "Name": "Grimer",
+        "Type": "Psychic",
+        "HP": 94,
+        "Attack": 35,
+        "Defense": 70,
+        "Speed": 71
+    },
+    {
+        "Name": "Muk",
+        "Type": "Rock",
+        "HP": 63,
+        "Attack": 126,
+        "Defense": 122,
+        "Speed": 115
+    },
+    {
+        "Name": "Shellder",
+        "Type": "Fire",
+        "HP": 176,
+        "Attack": 83,
+        "Defense": 144,
+        "Speed": 169
+    },
+    {
+        "Name": "Cloyster",
+        "Type": "Fire",
+        "HP": 74,
+        "Attack": 74,
+        "Defense": 127,
+        "Speed": 69
+    },
+    {
+        "Name": "Gastly",
+        "Type": "Grass",
+        "HP": 189,
+        "Attack": 55,
+        "Defense": 110,
+        "Speed": 104
+    },
+    {
+        "Name": "Haunter",
+        "Type": "Flying",
+        "HP": 76,
+        "Attack": 125,
+        "Defense": 118,
+        "Speed": 137
+    },
+    {
+        "Name": "Gengar",
+        "Type": "Grass",
+        "HP": 99,
+        "Attack": 91,
+        "Defense": 82,
+        "Speed": 166
+    },
+    {
+        "Name": "Onix",
+        "Type": "Fire",
+        "HP": 137,
+        "Attack": 44,
+        "Defense": 120,
+        "Speed": 160
+    },
+    {
+        "Name": "Drowzee",
+        "Type": "Electric",
+        "HP": 177,
+        "Attack": 148,
+        "Defense": 138,
+        "Speed": 135
+    },
+    {
+        "Name": "Hypno",
+        "Type": "Flying",
+        "HP": 162,
+        "Attack": 77,
+        "Defense": 120,
+        "Speed": 171
+    },
+    {
+        "Name": "Krabby",
+        "Type": "Electric",
+        "HP": 200,
+        "Attack": 110,
+        "Defense": 56,
+        "Speed": 21
+    },
+    {
+        "Name": "Kingler",
+        "Type": "Ground",
+        "HP": 159,
+        "Attack": 115,
+        "Defense": 49,
+        "Speed": 112
+    },
+    {
+        "Name": "Voltorb",
+        "Type": "Rock",
+        "HP": 188,
+        "Attack": 121,
+        "Defense": 83,
+        "Speed": 154
+    },
+    {
+        "Name": "Electrode",
+        "Type": "Flying",
+        "HP": 83,
+        "Attack": 131,
+        "Defense": 57,
+        "Speed": 40
+    },
+    {
+        "Name": "Exeggcute",
+        "Type": "Psychic",
+        "HP": 148,
+        "Attack": 77,
+        "Defense": 135,
+        "Speed": 80
+    },
+    {
+        "Name": "Exeggutor",
+        "Type": "Flying",
+        "HP": 115,
+        "Attack": 84,
+        "Defense": 91,
+        "Speed": 129
+    },
+    {
+        "Name": "Cubone",
+        "Type": "Rock",
+        "HP": 118,
+        "Attack": 46,
+        "Defense": 61,
+        "Speed": 76
+    },
+    {
+        "Name": "Marowak",
+        "Type": "Psychic",
+        "HP": 134,
+        "Attack": 66,
+        "Defense": 67,
+        "Speed": 53
+    },
+    {
+        "Name": "Hitmonlee",
+        "Type": "Ground",
+        "HP": 121,
+        "Attack": 103,
+        "Defense": 86,
+        "Speed": 97
+    },
+    {
+        "Name": "Hitmonchan",
+        "Type": "Psychic",
+        "HP": 138,
+        "Attack": 39,
+        "Defense": 71,
+        "Speed": 80
+    },
+    {
+        "Name": "Lickitung",
+        "Type": "Ground",
+        "HP": 114,
+        "Attack": 84,
+        "Defense": 129,
+        "Speed": 61
+    },
+    {
+        "Name": "Koffing",
+        "Type": "Ground",
+        "HP": 192,
+        "Attack": 77,
+        "Defense": 109,
+        "Speed": 65
+    },
+    {
+        "Name": "Weezing",
+        "Type": "Fire",
+        "HP": 197,
+        "Attack": 110,
+        "Defense": 98,
+        "Speed": 35
+    },
+    {
+        "Name": "Rhyhorn",
+        "Type": "Rock",
+        "HP": 137,
+        "Attack": 118,
+        "Defense": 83,
+        "Speed": 151
+    },
+    {
+        "Name": "Rhydon",
+        "Type": "Ground",
+        "HP": 114,
+        "Attack": 33,
+        "Defense": 63,
+        "Speed": 173
+    },
+    {
+        "Name": "Chansey",
+        "Type": "Grass",
+        "HP": 73,
+        "Attack": 91,
+        "Defense": 118,
+        "Speed": 139
+    },
+    {
+        "Name": "Tangela",
+        "Type": "Fire",
+        "HP": 73,
+        "Attack": 42,
+        "Defense": 113,
+        "Speed": 107
+    },
+    {
+        "Name": "Kangaskhan",
+        "Type": "Ghost",
+        "HP": 100,
+        "Attack": 73,
+        "Defense": 53,
+        "Speed": 137
+    },
+    {
+        "Name": "Horsea",
+        "Type": "Fire",
+        "HP": 177,
+        "Attack": 71,
+        "Defense": 110,
+        "Speed": 72
+    },
+    {
+        "Name": "Seadra",
+        "Type": "Ghost",
+        "HP": 166,
+        "Attack": 55,
+        "Defense": 126,
+        "Speed": 166
+    },
+    {
+        "Name": "Goldeen",
+        "Type": "Electric",
+        "HP": 65,
+        "Attack": 104,
+        "Defense": 82,
+        "Speed": 103
+    },
+    {
+        "Name": "Seaking",
+        "Type": "Rock",
+        "HP": 199,
+        "Attack": 48,
+        "Defense": 88,
+        "Speed": 63
+    },
+    {
+        "Name": "Staryu",
+        "Type": "Ghost",
+        "HP": 184,
+        "Attack": 79,
+        "Defense": 106,
+        "Speed": 156
+    },
+    {
+        "Name": "Starmie",
+        "Type": "Dragon",
+        "HP": 143,
+        "Attack": 34,
+        "Defense": 52,
+        "Speed": 130
+    },
+    {
+        "Name": "Mr. Mime",
+        "Type": "Flying",
+        "HP": 127,
+        "Attack": 145,
+        "Defense": 71,
+        "Speed": 148
+    },
+    {
+        "Name": "Scyther",
+        "Type": "Dragon",
+        "HP": 73,
+        "Attack": 150,
+        "Defense": 80,
+        "Speed": 104
+    },
+    {
+        "Name": "Jynx",
+        "Type": "Rock",
+        "HP": 115,
+        "Attack": 117,
+        "Defense": 94,
+        "Speed": 96
+    },
+    {
+        "Name": "Electabuzz",
+        "Type": "Water",
+        "HP": 158,
+        "Attack": 149,
+        "Defense": 59,
+        "Speed": 138
+    },
+    {
+        "Name": "Magmar",
+        "Type": "Dragon",
+        "HP": 162,
+        "Attack": 65,
+        "Defense": 53,
+        "Speed": 67
+    },
+    {
+        "Name": "Pinsir",
+        "Type": "Water",
+        "HP": 136,
+        "Attack": 89,
+        "Defense": 51,
+        "Speed": 29
+    },
+    {
+        "Name": "Tauros",
+        "Type": "Ghost",
+        "HP": 132,
+        "Attack": 50,
+        "Defense": 51,
+        "Speed": 127
+    },
+    {
+        "Name": "Magikarp",
+        "Type": "Water",
+        "HP": 105,
+        "Attack": 111,
+        "Defense": 58,
+        "Speed": 99
+    },
+    {
+        "Name": "Gyarados",
+        "Type": "Rock",
+        "HP": 100,
+        "Attack": 109,
+        "Defense": 53,
+        "Speed": 137
+    },
+    {
+        "Name": "Lapras",
+        "Type": "Ghost",
+        "HP": 73,
+        "Attack": 36,
+        "Defense": 68,
+        "Speed": 137
+    },
+    {
+        "Name": "Ditto",
+        "Type": "Flying",
+        "HP": 133,
+        "Attack": 116,
+        "Defense": 102,
+        "Speed": 102
+    },
+    {
+        "Name": "Eevee",
+        "Type": "Ground",
+        "HP": 72,
+        "Attack": 142,
+        "Defense": 102,
+        "Speed": 27
+    },
+    {
+        "Name": "Vaporeon",
+        "Type": "Flying",
+        "HP": 154,
+        "Attack": 50,
+        "Defense": 60,
+        "Speed": 175
+    },
+    {
+        "Name": "Jolteon",
+        "Type": "Grass",
+        "HP": 64,
+        "Attack": 82,
+        "Defense": 78,
+        "Speed": 88
+    },
+    {
+        "Name": "Flareon",
+        "Type": "Rock",
+        "HP": 155,
+        "Attack": 41,
+        "Defense": 61,
+        "Speed": 80
+    },
+    {
+        "Name": "Porygon",
+        "Type": "Water",
+        "HP": 100,
+        "Attack": 62,
+        "Defense": 36,
+        "Speed": 69
+    },
+    {
+        "Name": "Omanyte",
+        "Type": "Psychic",
+        "HP": 99,
+        "Attack": 94,
+        "Defense": 53,
+        "Speed": 153
+    },
+    {
+        "Name": "Omastar",
+        "Type": "Ground",
+        "HP": 58,
+        "Attack": 108,
+        "Defense": 100,
+        "Speed": 21
+    },
+    {
+        "Name": "Kabuto",
+        "Type": "Fire",
+        "HP": 136,
+        "Attack": 126,
+        "Defense": 39,
+        "Speed": 20
+    },
+    {
+        "Name": "Kabutops",
+        "Type": "Water",
+        "HP": 196,
+        "Attack": 68,
+        "Defense": 87,
+        "Speed": 69
+    },
+    {
+        "Name": "Aerodactyl",
+        "Type": "Water",
+        "HP": 60,
+        "Attack": 48,
+        "Defense": 46,
+        "Speed": 75
+    },
+    {
+        "Name": "Snorlax",
+        "Type": "Ghost",
+        "HP": 178,
+        "Attack": 116,
+        "Defense": 43,
+        "Speed": 169
+    },
+    {
+        "Name": "Articuno",
+        "Type": "Dragon",
+        "HP": 108,
+        "Attack": 124,
+        "Defense": 113,
+        "Speed": 28
+    },
+    {
+        "Name": "Zapdos",
+        "Type": "Ground",
+        "HP": 122,
+        "Attack": 121,
+        "Defense": 46,
+        "Speed": 56
+    },
+    {
+        "Name": "Moltres",
+        "Type": "Psychic",
+        "HP": 99,
+        "Attack": 38,
+        "Defense": 80,
+        "Speed": 143
+    },
+    {
+        "Name": "Dratini",
+        "Type": "Psychic",
+        "HP": 81,
+        "Attack": 67,
+        "Defense": 137,
+        "Speed": 131
+    },
+    {
+        "Name": "Dragonair",
+        "Type": "Water",
+        "HP": 197,
+        "Attack": 33,
+        "Defense": 47,
+        "Speed": 70
+    },
+    {
+        "Name": "Dragonite",
+        "Type": "Dragon",
+        "HP": 142,
+        "Attack": 120,
+        "Defense": 107,
+        "Speed": 122
+    },
+    {
+        "Name": "Mewtwo",
+        "Type": "Dragon",
+        "HP": 109,
+        "Attack": 94,
+        "Defense": 144,
+        "Speed": 66
+    },
+    {
+        "Name": "Mew",
+        "Type": "Electric",
+        "HP": 90,
+        "Attack": 87,
+        "Defense": 97,
+        "Speed": 166
+    },
+    {
+        "Name": "Chikorita",
+        "Type": "Rock",
+        "HP": 89,
+        "Attack": 90,
+        "Defense": 124,
+        "Speed": 69
+    },
+    {
+        "Name": "Bayleef",
+        "Type": "Psychic",
+        "HP": 87,
+        "Attack": 121,
+        "Defense": 61,
+        "Speed": 85
+    },
+    {
+        "Name": "Meganium",
+        "Type": "Rock",
+        "HP": 74,
+        "Attack": 35,
+        "Defense": 83,
+        "Speed": 70
+    },
+    {
+        "Name": "Cyndaquil",
+        "Type": "Flying",
+        "HP": 129,
+        "Attack": 76,
+        "Defense": 82,
+        "Speed": 63
+    },
+    {
+        "Name": "Quilava",
+        "Type": "Rock",
+        "HP": 64,
+        "Attack": 69,
+        "Defense": 87,
+        "Speed": 87
+    },
+    {
+        "Name": "Typhlosion",
+        "Type": "Water",
+        "HP": 75,
+        "Attack": 33,
+        "Defense": 43,
+        "Speed": 20
+    },
+    {
+        "Name": "Totodile",
+        "Type": "Water",
+        "HP": 97,
+        "Attack": 140,
+        "Defense": 106,
+        "Speed": 120
+    },
+    {
+        "Name": "Croconaw",
+        "Type": "Fire",
+        "HP": 142,
+        "Attack": 113,
+        "Defense": 95,
+        "Speed": 150
+    },
+    {
+        "Name": "Feraligatr",
+        "Type": "Ground",
+        "HP": 165,
+        "Attack": 109,
+        "Defense": 45,
+        "Speed": 20
+    },
+    {
+        "Name": "Sentret",
+        "Type": "Flying",
+        "HP": 169,
+        "Attack": 124,
+        "Defense": 65,
+        "Speed": 46
+    },
+    {
+        "Name": "Furret",
+        "Type": "Grass",
+        "HP": 96,
+        "Attack": 114,
+        "Defense": 110,
+        "Speed": 74
+    },
+    {
+        "Name": "Hoothoot",
+        "Type": "Water",
+        "HP": 68,
+        "Attack": 128,
+        "Defense": 120,
+        "Speed": 106
+    },
+    {
+        "Name": "Noctowl",
+        "Type": "Ghost",
+        "HP": 192,
+        "Attack": 81,
+        "Defense": 147,
+        "Speed": 27
+    },
+    {
+        "Name": "Ledyba",
+        "Type": "Ghost",
+        "HP": 186,
+        "Attack": 107,
+        "Defense": 37,
+        "Speed": 143
+    },
+    {
+        "Name": "Ledian",
+        "Type": "Fire",
+        "HP": 63,
+        "Attack": 34,
+        "Defense": 121,
+        "Speed": 132
+    },
+    {
+        "Name": "Spinarak",
+        "Type": "Ghost",
+        "HP": 155,
+        "Attack": 132,
+        "Defense": 86,
+        "Speed": 129
+    },
+    {
+        "Name": "Ariados",
+        "Type": "Ground",
+        "HP": 196,
+        "Attack": 92,
+        "Defense": 57,
+        "Speed": 91
+    },
+    {
+        "Name": "Crobat",
+        "Type": "Electric",
+        "HP": 177,
+        "Attack": 145,
+        "Defense": 57,
+        "Speed": 125
+    },
+    {
+        "Name": "Chinchou",
+        "Type": "Ground",
+        "HP": 94,
+        "Attack": 123,
+        "Defense": 73,
+        "Speed": 144
+    },
+    {
+        "Name": "Lanturn",
+        "Type": "Ghost",
+        "HP": 56,
+        "Attack": 96,
+        "Defense": 88,
+        "Speed": 62
+    },
+    {
+        "Name": "Pichu",
+        "Type": "Psychic",
+        "HP": 101,
+        "Attack": 121,
+        "Defense": 82,
+        "Speed": 108
+    },
+    {
+        "Name": "Cleffa",
+        "Type": "Grass",
+        "HP": 101,
+        "Attack": 147,
+        "Defense": 112,
+        "Speed": 103
+    },
+    {
+        "Name": "Igglybuff",
+        "Type": "Rock",
+        "HP": 104,
+        "Attack": 101,
+        "Defense": 39,
+        "Speed": 40
+    },
+    {
+        "Name": "Togepi",
+        "Type": "Ghost",
+        "HP": 163,
+        "Attack": 53,
+        "Defense": 132,
+        "Speed": 93
+    },
+    {
+        "Name": "Togetic",
+        "Type": "Electric",
+        "HP": 95,
+        "Attack": 119,
+        "Defense": 88,
+        "Speed": 153
+    },
+    {
+        "Name": "Natu",
+        "Type": "Grass",
+        "HP": 162,
+        "Attack": 110,
+        "Defense": 53,
+        "Speed": 164
+    },
+    {
+        "Name": "Xatu",
+        "Type": "Electric",
+        "HP": 164,
+        "Attack": 137,
+        "Defense": 84,
+        "Speed": 115
+    },
+    {
+        "Name": "Mareep",
+        "Type": "Electric",
+        "HP": 103,
+        "Attack": 130,
+        "Defense": 53,
+        "Speed": 55
+    },
+    {
+        "Name": "Flaaffy",
+        "Type": "Water",
+        "HP": 148,
+        "Attack": 85,
+        "Defense": 67,
+        "Speed": 83
+    },
+    {
+        "Name": "Ampharos",
+        "Type": "Rock",
+        "HP": 109,
+        "Attack": 45,
+        "Defense": 96,
+        "Speed": 79
+    },
+    {
+        "Name": "Bellossom",
+        "Type": "Fire",
+        "HP": 83,
+        "Attack": 150,
+        "Defense": 53,
+        "Speed": 171
+    },
+    {
+        "Name": "Marill",
+        "Type": "Dragon",
+        "HP": 77,
+        "Attack": 89,
+        "Defense": 68,
+        "Speed": 157
+    },
+    {
+        "Name": "Azumarill",
+        "Type": "Dragon",
+        "HP": 130,
+        "Attack": 78,
+        "Defense": 87,
+        "Speed": 131
+    },
+    {
+        "Name": "Sudowoodo",
+        "Type": "Psychic",
+        "HP": 99,
+        "Attack": 32,
+        "Defense": 91,
+        "Speed": 172
+    },
+    {
+        "Name": "Politoed",
+        "Type": "Flying",
+        "HP": 149,
+        "Attack": 89,
+        "Defense": 96,
+        "Speed": 121
+    },
+    {
+        "Name": "Hoppip",
+        "Type": "Fire",
+        "HP": 65,
+        "Attack": 116,
+        "Defense": 128,
+        "Speed": 124
+    },
+    {
+        "Name": "Skiploom",
+        "Type": "Rock",
+        "HP": 149,
+        "Attack": 116,
+        "Defense": 74,
+        "Speed": 99
+    },
+    {
+        "Name": "Jumpluff",
+        "Type": "Dragon",
+        "HP": 134,
+        "Attack": 133,
+        "Defense": 130,
+        "Speed": 164
+    },
+    {
+        "Name": "Aipom",
+        "Type": "Dragon",
+        "HP": 69,
+        "Attack": 65,
+        "Defense": 137,
+        "Speed": 163
+    },
+    {
+        "Name": "Sunkern",
+        "Type": "Ghost",
+        "HP": 177,
+        "Attack": 139,
+        "Defense": 123,
+        "Speed": 143
+    },
+    {
+        "Name": "Sunflora",
+        "Type": "Psychic",
+        "HP": 153,
+        "Attack": 77,
+        "Defense": 50,
+        "Speed": 65
+    },
+    {
+        "Name": "Yanma",
+        "Type": "Ghost",
+        "HP": 184,
+        "Attack": 85,
+        "Defense": 72,
+        "Speed": 82
+    },
+    {
+        "Name": "Wooper",
+        "Type": "Grass",
+        "HP": 133,
+        "Attack": 38,
+        "Defense": 134,
+        "Speed": 154
+    },
+    {
+        "Name": "Quagsire",
+        "Type": "Dragon",
+        "HP": 110,
+        "Attack": 50,
+        "Defense": 56,
+        "Speed": 164
+    },
+    {
+        "Name": "Espeon",
+        "Type": "Electric",
+        "HP": 112,
+        "Attack": 66,
+        "Defense": 40,
+        "Speed": 112
+    },
+    {
+        "Name": "Umbreon",
+        "Type": "Rock",
+        "HP": 179,
+        "Attack": 82,
+        "Defense": 44,
+        "Speed": 39
+    },
+    {
+        "Name": "Murkrow",
+        "Type": "Electric",
+        "HP": 142,
+        "Attack": 84,
+        "Defense": 42,
+        "Speed": 137
+    },
+    {
+        "Name": "Slowking",
+        "Type": "Ground",
+        "HP": 91,
+        "Attack": 82,
+        "Defense": 65,
+        "Speed": 180
+    },
+    {
+        "Name": "Misdreavus",
+        "Type": "Water",
+        "HP": 73,
+        "Attack": 57,
+        "Defense": 68,
+        "Speed": 43
+    }
+]
